@@ -8,14 +8,7 @@ def game_hash
       players: {
         alan_anderson:
       }
-      }, 
-    away: {}, 
+      },
+    away: {},
   }
 end
-
-
-
-
-
-
-
